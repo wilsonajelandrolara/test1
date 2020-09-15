@@ -1,0 +1,61 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box;
+}
+
+body {
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.btn {
+	padding: 0 20px;
+	margin-bottom: 20px;
+	height: 40px;
+	line-height: 40px;
+	border: none;
+	color: rgb(255, 255, 255);
+	background: #000e3d;
+	border-radius: 6px;
+	font-size: 16px;
+	cursor: pointer;
+	transition: .3s ease all;
+	cursor: pointer;
+}
+
+.btn:hover {
+	color: #110441;
+	background-color: #ffffff;
+	border: 2px solid #0b1a4b;
+}
+
+.text_izq{
+	text-align: left;
+}
+.text_izq h5{
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+
+.Hora {
+	width: 25%;
+	margin-bottom: 20px;
+	height: 52px;
+	font-size: 18px;
+	line-height: 52px;
+	text-align: center;
+	border-radius: 15px;
+	border: 1px solid #050146;
+}
+
+
+.popup form .btn-submit:hover {
+	background: rgba(94,125,227, .9);
+}
+
+
+
